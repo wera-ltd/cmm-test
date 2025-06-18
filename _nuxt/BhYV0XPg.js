@@ -1,1 +1,0 @@
-import t from"./CJNj5-kw.js";import"./DDmJ3-l_.js";import"./DdtKJNkO.js";var r={name:"InputSwitch",extends:t,mounted:function(){console.warn("Deprecated since v4. Use ToggleSwitch component instead.")}};export{r as default};
