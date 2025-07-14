@@ -1,1 +1,0 @@
-import{m as s,n as r,p as a}from"./D0irmNLU.js";import{u as o}from"./CISQY5Kl.js";const d=s(()=>{const t=r({key:()=>["customer","setting"],query:()=>o().customer.customerSettingGet().then(e=>e.data)});return{scheduleData:a(()=>{var e,u;return(u=(e=t.data)==null?void 0:e.value)==null?void 0:u.schedule_data}),...t}});export{d as u};
